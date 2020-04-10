@@ -1,3 +1,6 @@
+# not my code
+# see here: https://elder.dev/posts/open-source-virtual-background/
+
 import os
 import cv2
 import numpy as np
