@@ -1,0 +1,6 @@
+numpy
+opencv-python
+pyfakewebcam
+requests
+flake8
+black
