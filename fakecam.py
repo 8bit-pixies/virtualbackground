@@ -50,6 +50,7 @@ def get_frame(cap, background_scaled):
 
 # setup access to the *real* webcam
 cap = cv2.VideoCapture("/dev/video0")
+# height, width = 480, 640
 height, width = 360, 640
 cap.set(cv2.CAP_PROP_FRAME_WIDTH, width)
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, height)
